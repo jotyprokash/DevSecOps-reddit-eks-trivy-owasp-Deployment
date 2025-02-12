@@ -1,0 +1,1 @@
+This project automates the secure deployment of Reddit on AWS EKS using a DevSecOps approach. It integrates Trivy for container and Kubernetes vulnerability scanning, SonarQube for code analysis, and OWASP security scans to ensure a robust security posture. The pipeline enforces security best practices while maintaining scalability and reliability.🔒
